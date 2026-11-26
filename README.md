@@ -158,7 +158,6 @@ I'm also the **Vice President of ASPER Club**, where I lead DSA sessions coverin
 
 ## Currently
 
-- Preparing for **TCS NQT** (aptitude and Java coding practice)
 - Building and polishing full-stack projects for **SDE-1 / Software Developer** applications
 - Leading **DSA sessions at ASPER Club**
 - Practicing daily problems on [LeetCode](https://leetcode.com/u/Saransh_Bhargava/)
