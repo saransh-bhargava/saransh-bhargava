@@ -125,11 +125,13 @@ I'm also the **Vice President of ASPER Club**, where I lead DSA sessions coverin
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Core CS
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### CS Fundamantels
 ![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-111827?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-111827?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-111827?style=for-the-badge)
